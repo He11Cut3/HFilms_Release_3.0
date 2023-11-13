@@ -1,0 +1,57 @@
+﻿@model IEnumerable<HellsFilmsBlog>
+
+<!-- main-area -->
+<main>
+    <!-- blog-area -->
+    <section class="blog-area blog-bg" data-background="img/bg/blog_bg.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    
+                        @foreach (var blog in Model)
+                        {
+                        <div class="blog-post-item">
+                            <div class="blog-post-thumb">
+                                @if (blog.HellsFilmsBlogPhoto != null)
+                                {
+                                    var base64 = Convert.ToBase64String(blog.HellsFilmsBlogPhoto);
+                                    var imgSrc = string.Format("data:image/png;base64,{0}", base64);
+                                    <img class="primary-img" src="@imgSrc" alt="">
+                                }
+                            </div>
+                            <div class="blog-post-content">
+                                <span class="date"><i class="far fa-clock"></i>@blog.HellsFilmsBlogDate</span>
+                                <h2 class="title"><a href="blog-details.html">@blog.HellsFilmsBlogName</a></h2>
+                                <div class="blog-post-meta">
+                                    <ul>
+                                        <li><i class="far fa-user"></i> by <a href="#">Admin</a></li>
+                                    </ul>
+                                    <div class="read-more">
+                                        <a asp-controller="Blog" asp-action="Details" asp-route-id="@blog.HellsFilmsBlogID">Читать <i class="fas fa-angle-double-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                        
+                   
+                   
+
+
+                </div>
+                <div class="col-lg-4">
+                    <aside class="blog-sidebar">
+                        <div class="widget blog-widget">
+                            
+
+                            <vc:tag/>
+
+
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- blog-area-end -->
+<!--end of blog list section-->

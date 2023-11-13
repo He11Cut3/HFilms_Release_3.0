@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HellsFilms
+build_property.RootNamespace = HellsFilms
+build_property.ProjectDir = C:\Users\kek13\OneDrive\Рабочий стол\01\Git\HFilms_release_2.0\HellsFilms\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kek13\OneDrive\Рабочий стол\01\Git\HFilms_release_2.0\HellsFilms
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminBlog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminBlog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminBlog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminMovie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Nb3ZpZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminMovie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Nb3ZpZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Nb3ZpZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminSerial/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJpYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminSerial/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJpYWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/AdminSerial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/Components/SerialFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VyaWFsRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/Components/Serial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VyaWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/Components/Tag/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGFnXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/CssPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENzc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEZvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEhlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/MetaTagPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXE1ldGFUYWdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFNjcmlwdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/MovieList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVMaXN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/MovieList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVMaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Serial/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Serial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/Components/SerialFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VyaWFsRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/Components/Serial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VyaWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/Components/Tag/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGFnXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/CssPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENzc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/MetaTagPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1ldGFUYWdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNjcmlwdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ukvxa3dwns
+
+[C:/Users/kek13/OneDrive/Рабочий стол/01/Git/HFilms_release_2.0/HellsFilms/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a6i9at5xgh

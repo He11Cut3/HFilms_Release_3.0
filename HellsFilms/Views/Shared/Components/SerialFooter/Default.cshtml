@@ -1,0 +1,40 @@
+﻿@model List<BasicFilm>
+@{
+    Random random1 = new Random();
+    List<BasicFilm> randomSerial = Model.OrderBy(x => random1.Next()).Take(5).ToList();
+}
+
+@foreach (var serial in randomSerial)
+{
+    <div class="custom-col-">
+        <div class="movie-item movie-item-two">
+            <div class="movie-poster">
+                <img src="@serial.PosterUrl" height="285" width="195" alt="">
+                <ul class="overlay-btn">
+                    <li><a asp-controller="Serial" asp-action="Details" asp-route-kinopoiskId="@serial.Id" class="btn">Смотреть</a></li>
+                </ul>
+            </div>
+            <div class="movie-content">
+                <div class="rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h5 class="title"><a asp-controller="Serial" asp-action="Details" asp-route-kinopoiskId="@serial.Id">@serial.PrimaryTitle</a></h5>
+                <div class="movie-content-bottom">
+                    <ul>
+                        <li class="tag">
+                            <a href="#">HD</a>
+                            <a href="#">Ru</a>
+                        </li>
+                        <li>
+                            <span class="like"><i class="fas fa-star"></i> @serial.Rating</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<HellsFilmsTag>
+
+<div class="sb-tags sb-it">
+	<ul class="tag-items">
+		<li><a href="@Url.Action("Index", "Blog")">Все теги</a></li>
+		@foreach (var tag in Model)
+		{
+			<li><a href="@Url.Action("Index", "Blog", new { tagID = tag.HellsFilmsTagID })">@tag.HellsFilmsTagName</a></li>
+		}
+	</ul>
+</div>

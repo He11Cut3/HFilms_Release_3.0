@@ -1,0 +1,32 @@
+﻿@model LoginViewModel
+
+<!-- contact-area -->
+<section class="contact-area contact-bg" data-background="/img/bg/contact_bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-8 col-lg-7">
+                <div class="contact-form-wrap">
+                    <div class="widget-title mb-50">
+                        <h5 class="title">Вход</h5>
+                    </div>
+                    <div class="contact-form">
+                        <form method="post" action="#">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <input asp-for="UserName" type="text" placeholder="Логин" />
+                                </div>
+                                <div class="col-md-6">
+                                    <input asp-for="Password" type="password" placeholder="Пароль" />
+                                </div>
+                            </div>
+                            <input type="hidden" asp-for="ReturnUrl" />
+                            <div class="form-group">
+                                <button class="btn">Вход</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

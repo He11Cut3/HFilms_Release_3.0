@@ -1,0 +1,47 @@
+﻿@model IEnumerable<HellsFilmsBlog>
+
+
+
+<!-- main-area -->
+<main>
+	<!-- blog-area -->
+	<section class="blog-area blog-bg" data-background="/img/bg/blog_bg.jpg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="section-title text-center text-lg-left">
+
+						<h2 class="title">Фильмы</h2>
+						<a class="btn" asp-action="Create">Добавить блог</a>
+					</div>
+
+					@foreach (var blog in Model)
+					{
+						<div class="blog-post-item">
+							<div class="blog-post-thumb">
+								@if (blog.HellsFilmsBlogPhoto != null)
+								{
+									var base64 = Convert.ToBase64String(blog.HellsFilmsBlogPhoto);
+									var imgSrc = string.Format("data:image/png;base64,{0}", base64);
+									<img class="primary-img" src="@imgSrc" alt="">
+								}
+							</div>
+							<div class="blog-post-content">
+								<span class="date"><i class="far fa-clock"></i>@blog.HellsFilmsBlogDate</span>
+								<h2 class="title"><a href="blog-details.html">@blog.HellsFilmsBlogName</a></h2>
+								<div class="blog-post-meta">
+									<ul>
+										<li><i class="far fa-user"></i> by <a>Admin</a></li>
+									</ul>
+										<a class="btn" asp-action="Edit" asp-route-id="@blog.HellsFilmsBlogID">Редактировать </a>
+										<a class="btn" asp-action="Delete" asp-route-id="@blog.HellsFilmsBlogID">Удалить </a>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+			</div>
+		</div>
+	</section>
+</main>

@@ -1,0 +1,24 @@
+﻿
+
+
+
+<!-- main-area -->
+<main>
+
+    <!-- movie-details-area -->
+    <section class="movie-details-area" data-background="/img/bg/movie_bg.jpg">
+        <div class="container">
+            <div class="tabs">
+                <div class="kinobox_player"></div>
+                <script src="https://kinobox.tv/kinobox.min.js"></script>
+                <script>
+                    new Kinobox('.kinobox_player', {
+                        search: {
+                            title: '@Html.Raw(ViewBag.Query)',
+                        }
+                    }).init();
+                </script>
+            </div>
+        </div>
+    </section>
+</main>

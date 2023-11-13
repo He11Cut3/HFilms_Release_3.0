@@ -1,0 +1,54 @@
+﻿@model HellsFilmsMovie
+
+<section class="contact-area contact-bg" data-background="/img/bg/contact_bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-8 col-lg-7">
+                <div class="contact-form-wrap">
+                    <div class="widget-title mb-50">
+                        <h5 class="title">Добавить</h5>
+                    </div>
+                    <div class="contact-form">
+                    <form asp-action="Create" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="HellsFilmsMovieName" class="control-label">Наименование</label>
+                            <input asp-for="HellsFilmsMovieName" class="form-control" />
+                            <span asp-validation-for="HellsFilmsMovieName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="HellsFilmsMovieDate" class="control-label">Дата (гггг)</label>
+                            <input asp-for="HellsFilmsMovieDate" class="form-control" />
+                            <span asp-validation-for="HellsFilmsMovieDate" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="HellsFilmsMovieRating" class="control-label">Рейтинг</label>
+                            <input asp-for="HellsFilmsMovieRating" class="form-control"></input>
+                            <span asp-validation-for="HellsFilmsMovieRating" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="HellsFilmsMovieIDFilms" class="control-label">ID Фильма с KINOPOISK</label>
+                            <input asp-for="HellsFilmsMovieIDFilms" class="form-control" />
+                            <span asp-validation-for="HellsFilmsMovieIDFilms" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="HellsFilmsMoviePhoto" class="control-label">Ссылка на фото</label>
+                            <input asp-for="HellsFilmsMoviePhoto" class="form-control" />
+                            <span asp-validation-for="HellsFilmsMoviePhoto" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary">Создать</button>
+                        </div>
+                    </form>
+                    </div>
+                    <a asp-action="Index" class="btn">Вернуться обратно</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

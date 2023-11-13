@@ -1,0 +1,186 @@
+﻿@model List<BasicFilm>
+
+<div id="preloader">
+        <div id="loading-center">
+            <div id="loading-center-absolute">
+                <img src="~/img/preloader.svg" alt="">
+            </div>
+        </div>
+    </div>
+<button class="scroll-top scroll-to-target" data-target="html">
+        <i class="fas fa-angle-up"></i>
+    </button>
+<main>
+    
+        <section class="slider-area slider-bg" data-background="img/bg/services_bg02.jpg">
+            <div class="slider-active">
+            @{
+                Random randoms = new Random();
+                List<BasicFilm> randomMoviess = Model.OrderBy(x => randoms.Next()).Take(4).ToList();
+            }
+                @foreach (var movie in randomMoviess)
+                {
+                    <div class="slider-item">
+                
+                        <div class="container">
+                    
+                            <div class="row align-items-center">
+                        
+                                    <div class="col-lg-6 order-0 order-lg-2">
+                                        <div class="slider-img text-center text-lg-right" data-animation="fadeInRight" data-delay="1s">
+                                    <img src="@movie.PosterUrl" height="609" width="472" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="banner-content">
+                                            <h6 class="sub-title" data-animation="fadeInUp" data-delay=".2s">Фильм</h6>
+                                            <h2 class="title" data-animation="fadeInUp" data-delay=".4s">@movie.PrimaryTitle</h2>
+                                            <div class="banner-meta" data-animation="fadeInUp" data-delay=".6s">
+                                                <ul>
+                                                    <li class="quality">
+                                                        <span>Pg 18</span>
+                                                        <span>hd</span>
+                                                    </li>
+                                                    <li class="release-time">
+                                                        <span><i class="far fa-calendar-alt"></i> @movie.Year</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                    <a asp-controller="MovieList" asp-action="Details" asp-route-kinopoiskId="@movie.Id" class="btn">Смотреть</a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+    <!-- slider-area-end -->
+    <!-- up-coming-movie-area -->
+    <section class="ucm-area ucm-bg2" data-background="img/bg/ucm_bg02.jpg">
+        <div class="container">
+            <div class="row align-items-end mb-55">
+                <div class="col-lg-6">
+                    <div class="section-title title-style-three text-center text-lg-left">
+                        <h2 class="title">Новые фильмы и сериалы на HFilms</h2>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="ucm-nav-wrap">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link active" id="tvShow-tab" data-toggle="tab" href="#tvShow" role="tab" aria-controls="tvShow" aria-selected="true">Фильмы</a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" id="movies-tab" data-toggle="tab" href="#movies" role="tab" aria-controls="movies" aria-selected="false">Сериалы</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="tvShow" role="tabpanel" aria-labelledby="tvShow-tab">
+                    <div class="ucm-active-two owl-carousel">
+                        @foreach (var movie in Model.OrderByDescending(m => m.Id).Take(12))
+						{
+                            <div class="movie-item movie-item-two mb-30">
+                                <div class="movie-poster">
+                                    <a asp-controller="MovieList" asp-action="Details" asp-route-kinopoiskId="@movie.Id"><img src="@movie.PosterUrl" height="285" width="195" alt=""></a>
+                                </div>
+                                <div class="movie-content">
+                                    <h5 class="title"><a asp-controller="MovieList" asp-action="Details" asp-route-kinopoiskId="@movie.Id">@movie.PrimaryTitle</a></h5>
+                                    <div class="movie-content-bottom">
+                                        <ul>
+                                            <li class="tag">
+                                                <a href="#">HD</a>
+                                                <a href="#">Ru</a>
+                                            </li>
+                                            <li>
+                                                <span class="like"><i class ="fas fa-star"></i> @movie.Rating</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="movies" role="tabpanel" aria-labelledby="movies-tab">
+                    <div class="ucm-active-two owl-carousel">
+                        <vc:serial/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- up-coming-movie-area-end -->
+    <!-- top-rated-movie -->
+    <section class="top-rated-movie tr-movie-bg2" data-background="img/bg/tr_movies_bg.jpg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title title-style-three text-center mb-70">
+                        <span class="sub-title">Топ рейтинга фильмов и сериалов</span>
+                        <h2 class="title">Смотрят сейчас</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row movie-item-row">
+                
+                @{
+                    Random random = new Random();
+                    List<BasicFilm> randomMovies = Model.OrderBy(x => random.Next()).Take(5).ToList();
+                }
+
+                @foreach (var movie in randomMovies)
+                {
+                    <div class="custom-col-">
+                        <div class="movie-item movie-item-two">
+                            <div class="movie-poster">
+                                <img src="@movie.PosterUrl" height="285" width="195" alt="">
+                                <ul class="overlay-btn">
+                                    <li><a asp-controller="MovieList" asp-action="Details" asp-route-kinopoiskId="@movie.Id" class="btn">Смотреть</a></li>
+                                </ul>
+                            </div>
+                            <div class="movie-content">
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <h5 class="title"><a asp-controller="MovieList" asp-action="Details" asp-route-kinopoiskId="@movie.Id">@movie.PrimaryTitle</a></h5>
+                                <div class="movie-content-bottom">
+                                    <ul>
+                                        <li class="tag">
+                                            <a href="#">HD</a>
+                                            <a href="#">Ru</a>
+                                        </li>
+                                        <li>
+                                            <span class="like"><i class="fas fa-star"></i> @movie.Rating</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+                <vc:serial-footer/>
+
+                
+
+
+
+            </div>
+            <div class="tr-movie-btn text-center mt-25">
+                <a asp-controller="MovieList" asp-action="Index" class="btn">Все фильмы</a>
+            </div>
+            <div class="tr-movie-btn text-center mt-25">
+                <a asp-controller="Serial" asp-action="Index" class="btn">Все сериалы</a>
+            </div>
+        </div>
+    </section>
+    <!-- top-rated-movie-end -->
+</main>
+<!-- main-area-end -->

@@ -1,0 +1,24 @@
+﻿@model IEnumerable<HellsFilmsSerial>
+@foreach (var movie in Model.OrderByDescending(m => m.HellsFilmsSerialID).Take(12))
+{
+    <div class="movie-item movie-item-two mb-30">
+        <div class="movie-poster">
+            <a asp-controller="Serial" asp-action="Details" asp-route-id="@movie.HellsFilmsSerialID"><img src="@movie.HellsFilmsSerialPhoto" height="285" width="195" alt=""></a>
+        </div>
+        <div class="movie-content">
+
+            <h5 class="title"><a asp-controller="Serial" asp-action="Details" asp-route-id="@movie.HellsFilmsSerialID">@movie.HellsFilmsSerialName</a></h5>
+            <div class="movie-content-bottom">
+                <ul>
+                    <li class="tag">
+                        <a>HD</a>
+                        <a>Ru</a>
+                    </li>
+                    <li>
+                        <span class="like"><i class="fas fa-star"></i> @movie.HellsFilmsSerialRating</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}

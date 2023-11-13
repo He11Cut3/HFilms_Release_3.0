@@ -1,0 +1,23 @@
+﻿<!doctype html>
+<html class="no-js" lang="zxx">
+
+    <head>
+    
+        @await Html.PartialAsync("CssPartial")
+        @await Html.PartialAsync("MetaTagPartial")
+
+        @await Html.PartialAsync("HeaderPartial")
+    </head>
+
+    <body>
+        
+
+        @RenderBody()
+
+        @await Html.PartialAsync("FooterPartial")
+
+        @await Html.PartialAsync("ScriptPartial")
+    </body>
+</html>
+
+

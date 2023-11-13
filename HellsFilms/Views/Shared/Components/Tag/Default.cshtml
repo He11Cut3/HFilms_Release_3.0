@@ -1,0 +1,13 @@
+﻿@model IEnumerable<HellsFilmsTag>
+
+<div class="widget-title mb-30">
+    <h5 class="title">Теги</h5>
+</div>
+<div class="tag-list">
+    <ul>
+		@foreach (var tag in Model)
+		{
+			<li><a href="@Url.Action("Index", "Blog", new { tagID = tag.HellsFilmsTagID })">@tag.HellsFilmsTagName</a></li>
+		}
+    </ul>
+</div>

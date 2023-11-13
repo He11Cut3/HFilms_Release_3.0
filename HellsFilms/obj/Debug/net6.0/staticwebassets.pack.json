@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HellsFilms.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HellsFilms.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\banner\\banner_bg01.jpg",
+      "PackagePath": "staticwebassets\\banner\\banner_bg01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\banner\\s_slider_bg.jpg",
+      "PackagePath": "staticwebassets\\banner\\s_slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\banner\\slider_img01.jpg",
+      "PackagePath": "staticwebassets\\banner\\slider_img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\banner\\slider_img02.jpg",
+      "PackagePath": "staticwebassets\\banner\\slider_img02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\banner\\slider_img03.jpg",
+      "PackagePath": "staticwebassets\\banner\\slider_img03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\odometer.css",
+      "PackagePath": "staticwebassets\\css\\odometer.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\download.svg",
+      "PackagePath": "staticwebassets\\fonts\\download.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\banner_bg01.jpg",
+      "PackagePath": "staticwebassets\\img\\banner_bg01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\blog_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\blog_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\breadcrumb_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\breadcrumb_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\contact_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\contact_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\episode_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\episode_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\footer_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\footer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\gallery_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\gallery_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\header_bottom_shape.png",
+      "PackagePath": "staticwebassets\\img\\bg\\header_bottom_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\live_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\live_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\map.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\movie_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\movie_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\movie_details_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\movie_details_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\newsletter_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\newsletter_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\pricing_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\pricing_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\services_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\services_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\services_bg02.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\services_bg02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\tr_movies_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\tr_movies_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\tv_series_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\tv_series_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\tv_series_bg02.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\tv_series_bg02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\ucm_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\ucm_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\ucm_bg02.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\ucm_bg02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\bg\\ucm_bg_shape.png",
+      "PackagePath": "staticwebassets\\img\\bg\\ucm_bg_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\blog_details_img01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_details_img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\blog_details_img02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_details_img02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\blog_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\blog_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\blog_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\comment_avatar01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_avatar01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\comment_avatar02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_avatar02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\post_avatar_img.png",
+      "PackagePath": "staticwebassets\\img\\blog\\post_avatar_img.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\rc_post_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\rc_post_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\blog\\rc_post_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\card_img.png",
+      "PackagePath": "staticwebassets\\img\\images\\card_img.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\episode_img.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\episode_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\gallery_01.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\gallery_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\gallery_02.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\gallery_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\gallery_03.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\gallery_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\gallery_04.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\gallery_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\live_img.png",
+      "PackagePath": "staticwebassets\\img\\images\\live_img.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\nw_selarw.png",
+      "PackagePath": "staticwebassets\\img\\images\\nw_selarw.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\play_icon.png",
+      "PackagePath": "staticwebassets\\img\\images\\play_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\services_img.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\services_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\services_img02.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\services_img02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\services_img_shape.png",
+      "PackagePath": "staticwebassets\\img\\images\\services_img_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\images\\title_shape.png",
+      "PackagePath": "staticwebassets\\img\\images\\title_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\movie_details_img.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\movie_details_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster01.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster02.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster03.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster04.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster05.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster06.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster07.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster08.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster09.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\s_ucm_poster10.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\s_ucm_poster10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster01.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster02.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster03.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster04.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster05.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster06.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster07.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster08.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster09.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\poster\\ucm_poster10.jpg",
+      "PackagePath": "staticwebassets\\img\\poster\\ucm_poster10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\img\\preloader.svg",
+      "PackagePath": "staticwebassets\\img\\preloader.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\jquery.odometer.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.odometer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\HFilms_release_2.0\\HellsFilms\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HellsFilms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HellsFilms.props",
+      "PackagePath": "build\\HellsFilms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HellsFilms.props",
+      "PackagePath": "buildMultiTargeting\\HellsFilms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HellsFilms.props",
+      "PackagePath": "buildTransitive\\HellsFilms.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
